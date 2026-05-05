@@ -32,6 +32,7 @@ ax.set_xlim(0, None)
 ax.legend(title="Launch angle")
 ax.grid(alpha=0.25)
 
+
 plt.tight_layout()
 plt.show()
 
