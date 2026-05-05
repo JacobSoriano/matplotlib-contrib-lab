@@ -13,7 +13,7 @@ import matplotlib.pyplot as plt
 
 g = 9.81  # gravity (m/s^2)
 v0 = 20.0  # initial speed (m/s)
-angles_deg = [30, 45, 60]
+angles_deg = [15, 30, 45, 60, 75, 85]
 
 fig, ax = plt.subplots(figsize=(7, 4))
 
